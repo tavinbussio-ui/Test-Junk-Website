@@ -333,7 +333,8 @@ h3 {
 
 .reviews-intro {
   width: min(780px, 100%);
-  margin-bottom: 36px;
+  margin: 0 auto 36px;
+  text-align: center;
 }
 
 .reviews-intro p:not(.eyebrow) {
